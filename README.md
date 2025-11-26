@@ -1,4 +1,4 @@
-# 🔒 Prompt Injection Beginner Project (Python)
+ Prompt Injection Beginner Project (Python)
 
 This is a **beginner-friendly AI security project** that demonstrates:
 
@@ -12,16 +12,16 @@ You only need **one Python file** to run this project.
 
 ---
 
-## 🚀 Project Overview
+Project Overview
 
 The project simulates two versions of an AI assistant:
 
-### 1️⃣ Vulnerable AI  
+Vulnerable AI  
 - Easily tricked by attacker prompts  
 - Reveals secret information  
 - Shows how real prompt injection attacks happen
 
-### 2️⃣ Secure AI  
+ Secure AI  
 - Sanitizes harmful inputs  
 - Blocks dangerous prompts  
 - Protects secrets
